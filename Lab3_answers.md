@@ -1,4 +1,4 @@
-# Lab 3 – Answers (Group X: Alaa Alqurashi, Faisal Alburti, Hashim Alsayed)
+# Lab 3 – Answers (CS 3081 – Alaa Alqurashi, Faisal Alburti, Hashim Alsayed)
 
 ## Task 1
 ### harry.py – truth table (KB = (¬rain→hagrid) ∧ (hagrid∨dumbledore) ∧ ¬(hagrid∧dumbledore) ∧ dumbledore)
